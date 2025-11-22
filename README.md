@@ -1,5 +1,5 @@
 # whatsapp-web
-## project of the bot's whatsapp-web
+## project of the bot to whatsapp-web
 
 ### 🚀 WhatsApp Automation Bot
 Uma experiência técnica para estudo, análise e apreciação
