@@ -10,4 +10,5 @@ const puppeteer = require('puppeteer-core');
 // Função de delay
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-/* por motivos de sgurança parte do código não seram incluso */
+/* Por motivos de segurança e privacidade partes do código não seram inclusas */
+
