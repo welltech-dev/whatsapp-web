@@ -8,7 +8,10 @@ Este repositório apresenta um bot automatizado para WhatsApp, criado com foco e
 A intenção é permitir que outras pessoas estudem o funcionamento, entendam a lógica, analisem o design e apreciem o processo criativo
 
 
-WELL-COBAIA/
+## 🧱 Estrutura do Projeto
+
+```text
+bot to whatsapp-web/
 │
 ├── README.md                  ← Documentação principal
 ├── LICENSE                    ← Licença CC BY-NC-ND 4.0
@@ -24,8 +27,4 @@ WELL-COBAIA/
 │   ├── wellcobaiabolt.py
 │   ├── treino.py
 │   └── cobaia_base_solo.LoRa
-│
-├── /tests                     ← Registros e simulações
-│   ├── testes - teóricos 
-│   └── teste - Prático
 │
