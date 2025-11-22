@@ -1,0 +1,56 @@
+
+
+# Dependências
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Configurações locais
+.env
+.env.*
+*.local
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Sessões e autenticações do WhatsApp
+session/
+auth/
+tokens/
+*.json.session
+*.wwebjs_cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Cache do Puppeteer / Chrome
+.puppeteer/
+chrome-data/
+chrome-profile/
+tmp/
+temp/
+
+# Build, cache e arquivos 
+dist/
+build/
+cache/
+*.cache
+*.tmp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups ou rascunhos
+*.bak
+*.old
+*.orig
+
